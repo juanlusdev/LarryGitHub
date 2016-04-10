@@ -1,0 +1,11 @@
+#OSX fileSystem
+*.DS_Store
+
+#HTML Files
+*.html
+
+#fichero contraseñas
+passwords.txt
+
+#Otro fichero
+prueba.exe
